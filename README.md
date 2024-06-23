@@ -5,7 +5,7 @@ The UK Food Standards Agency evaluates various establishments across the United 
 # Introduction
 Eat Safe, Love is a project that focuses on analyzing and managing food establishment data. This project utilizes a MongoDB database to store information about food establishments, including their names, types, addresses, ratings, and more. The data is provided in a JSON format and can be imported into MongoDB using the provided instructions.
 
-# Part 1: Database and Jupyter Notebook Set Up
+## Part 1: Database and Jupyter Notebook Set Up
 To set up the database and Jupyter Notebook, follow these steps:
 
 Import the data provided in the establishments.json file into MongoDB. Use the following command in your Terminal:
@@ -100,5 +100,5 @@ https://github.com/pandarik/nosql-challenge/blob/main/NoSQL_analysis_starter.ipy
 ## Conclusion
 Eat Safe, Love provides a comprehensive way to manage and analyze food establishment data. By following the instructions provided, you can set up the database, perform updates, and conduct exploratory analysis to gain insights from the data.
 
-# Acknowledgments
+## Acknowledgments
 Leveraged Google, ChatGPT, and Copoilet as/where needed to develop/validate/troubleshoot code/data/functions. The Python and data science community for their invaluable resources.
