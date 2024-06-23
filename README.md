@@ -1,11 +1,11 @@
-# ## Eat Safe, Love  README
+#  Eat Safe, Love  README
 nosql-challenge Module 12 Challenge
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating
 
 # Introduction
 Eat Safe, Love is a project that focuses on analyzing and managing food establishment data. This project utilizes a MongoDB database to store information about food establishments, including their names, types, addresses, ratings, and more. The data is provided in a JSON format and can be imported into MongoDB using the provided instructions.
 
-#Part 1: Database and Jupyter Notebook Set Up
+# Part 1: Database and Jupyter Notebook Set Up
 To set up the database and Jupyter Notebook, follow these steps:
 
 Import the data provided in the establishments.json file into MongoDB. Use the following command in your Terminal:
