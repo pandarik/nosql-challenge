@@ -1,7 +1,7 @@
-# nosql-challenge - Eat Safe, Love - README
+# ## Eat Safe, Love  README
+nosql-challenge Module 12 Challenge
+The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating
 
-nosql-challenge Module 12 Challenge - The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating
-## Eat Safe, Love - README
 # Introduction
 Eat Safe, Love is a project that focuses on analyzing and managing food establishment data. This project utilizes a MongoDB database to store information about food establishments, including their names, types, addresses, ratings, and more. The data is provided in a JSON format and can be imported into MongoDB using the provided instructions.
 
@@ -94,6 +94,7 @@ results = list(establishments.aggregate(pipeline))
 df = pd.DataFrame(results)
 
 Here's the link to Jupyte Notebook: 
+https://github.com/pandarik/nosql-challenge/blob/main/NoSQL_analysis_starter.ipynb
 
 
 ## Conclusion
