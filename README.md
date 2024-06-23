@@ -33,6 +33,7 @@ establishments = db['establishments']
 pprint(establishments.find_one())
 
 Here's the link to Jupyte Notebook: 
+https://github.com/pandarik/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb
 
 
 ## Part 2: Update the Database
@@ -50,6 +51,7 @@ result = establishments.find_one({"BusinessType": "Restaurant/Cafe/Canteen"}, {"
 establishments.update_one({"BusinessName": "Penang Flavours"}, {"$set": {"BusinessTypeID": result["BusinessTypeID"]}})
 
 Here's the link to Jupyte Notebook: 
+https://github.com/pandarik/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb
 
 
 
